@@ -6,6 +6,6 @@ My current topics:
 
 - Event sourcing and CQRS
 - Nextcloud
-- Microcontrollers (ATMega, D1 Mini etc.)
+- Electronis in general and microcontrollers (ATmega, ESP8266 etc.)
 
 Also see me my website at https://arnowelzel.de/en/
