@@ -6,6 +6,8 @@ My current topics:
 
 - Event sourcing and CQRS
 - Nextcloud
+- WordPress
+- Android
 - Electronis in general and microcontrollers (ATmega, ESP8266 etc.)
 
 Also see me my website at https://arnowelzel.de/en/
