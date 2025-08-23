@@ -4,6 +4,7 @@ I'm doing software development since mid 1980ies and also have long term experie
 
 My current topics:
 
+- Codeberg und Forgejo
 - Event sourcing and CQRS
 - Nextcloud
 - WordPress
