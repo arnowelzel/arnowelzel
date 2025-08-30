@@ -10,3 +10,9 @@ My current topics:
 - WordPress
 - Android
 - Electronis in general and microcontrollers (ATmega, ESP8266 etc.)
+
+## Move to Codeberg
+
+Due to the latest changes at GitHub in August 2025 I decided to move all my own repositories to [Codeberg](https://codeberg.org).
+
+If you want to (continue) to contribute, please see https://codeberg.org/askaaron.
