@@ -16,6 +16,6 @@ Please see https://codeberg.org/askaaron. If you look for a specific repository,
 - Website Statistics with Matomo: https://codeberg.org/askaaron/webstats-matomo
 - Nextcloud netdata Plugin: https://codeberg.org/askaaron/netdata-nextcloud
 
-On project where I am the maintainer is still on Github, since moving it is not possible yet:
+Projects which are still on Github, since moving it is not possible yet:
 
 - Diagramming for Nextcloud (maintainer): https://github.com/arnowelzel/drawio-nextcloud
